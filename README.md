@@ -38,7 +38,7 @@ Fully **external**, **safe**, and **lightweight** by design.
 
 ## 📥 Installation
 
-1. Download the latest release from the **[[Releases Page](https://discord.gg/uKyqwT29Dh)])**.  
+1. Download the latest release from the **[https://discord.gg/uKyqwT29Dh)**.  
 2. Extract the downloaded `.zip` file.  
 3. Open `WarborneLauncher.exe`.  
 4. Enter your **License Key**.  

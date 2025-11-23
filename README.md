@@ -38,7 +38,7 @@ Fully **external**, **safe**, and **lightweight** by design.
 
 ## 📥 Installation
 
-1. Download the latest release from the **[Releases Page]([LINK_TO_RELEASES](https://discord.gg/uKyqwT29Dh))**.  
+1. Download the latest release from the **[[Releases Page](https://discord.gg/uKyqwT29Dh)])**.  
 2. Extract the downloaded `.zip` file.  
 3. Open `WarborneLauncher.exe`.  
 4. Enter your **License Key**.  
@@ -54,7 +54,7 @@ Fully **external**, **safe**, and **lightweight** by design.
 
 Warborne Reborn is a private tool with controlled access.
 
-1. Join the **[Discord Server]([YOUR_DISCORD_LINK_HERE](https://discord.gg/uKyqwT29Dh))**.  
+1. Join the **[Discord Server](https://discord.gg/uKyqwT29Dh)**.  
 2. Open a support ticket.  
 3. Choose your plan: **Daily, Monthly, or Lifetime**.  
 4. Receive your key instantly after purchase.
